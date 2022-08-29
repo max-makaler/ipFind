@@ -6,7 +6,6 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html --dist-dir build",
     "predeploy": "npm run build",
-    "reg": "vercel",
     "deploy": "vercel --prod"
   },
   "keywords": [],
